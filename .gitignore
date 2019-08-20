@@ -5,3 +5,6 @@
 .idea/workspace.xml
 venv/
 .idea/vcs.xml
+belajarlist/__pycache__/
+belajarlist/__init__.py
+
