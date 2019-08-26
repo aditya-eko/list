@@ -7,6 +7,7 @@ memotong3=cacah[6:8]
 
 
 memotong4=cacah[1:4]
+
 print(cacah)
 
 print(memotong1)
@@ -22,3 +23,9 @@ print(memotong5)
 
 
 
+print(cacah)
+
+# merubah list dengan cara memotong list
+
+cacah[1:4]=[2.2,3.3,4.4]
+print(cacah)
