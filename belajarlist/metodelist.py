@@ -27,4 +27,45 @@ print(menghitung)
 
 
 nomor=hewan.index("burung")
+nomor2=hewan.index("kecoa")
+
 print(nomor)
+print(nomor2)
+
+# index di gunakan untuk mengetahui index ke berapa dari sebuah komponen
+
+hewan.reverse()
+print(hewan)
+
+# reverse di gunakan untuk membalikan sebuah urutan
+
+hewan.sort()
+print(hewan)
+
+# sort di gunakan untuk mengurutkan berdasarkan abjad
+
+hasil=hewan.copy()
+print(hasil)
+print(hasil)
+# copy di gunakan untuk mengcopy list
+
+
+
+
+hewan.pop()
+hewan.pop(0)
+hewan.pop(0)
+
+print(hewan)
+
+# pop menghapus komponen yang ada di belakang atau bisa dengan memasukan indexnya
+
+hewan.remove("buaya")
+hewan.remove("ayam")
+print(hewan)
+# remove menghapus komponen berdasarkan item
+
+hewan.clear()
+print(hewan)
+
+# clear menghapus semua tipe data list
