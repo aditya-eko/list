@@ -69,3 +69,11 @@ hewan.clear()
 print(hewan)
 
 # clear menghapus semua tipe data list
+
+
+
+
+
+
+
+
