@@ -70,7 +70,7 @@ print(hewan)
 
 # clear menghapus semua tipe data list
 
-hewan2.sort()
+
 hewan2.reverse()
 x=hewan2.count("kecoa")
 print(hewan2)
